@@ -1,0 +1,3 @@
+SupplierName@@@Adress@@@City@@@Country@@@Contactperson@@@Phnum@@@Email@@@Mobnum@@@Notes
+bobby@@@jntu@@@Hyd@@@India@@@Bob@@@8978442625@@@bobby12@gmail.com@@@6787980987@@@Quality
+priya@@@jntu@@@Banglore@@@India@@@Baby@@@8978442905@@@bobb12@gmail.com@@@6787980990@@@Quality2

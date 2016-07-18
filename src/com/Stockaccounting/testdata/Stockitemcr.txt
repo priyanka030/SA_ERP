@@ -1,0 +1,4 @@
+CAt##SN##STOCN##UOM##PP##SP##NOTES
+test@1##30SupplierName##CARS##Quality2##300000##500000##GoodQuality
+Fruits##24##SHOES##Quality2##2000##3000##2yrWarranty 
+pc##34t##WIRES##Quality3##500000##700000##Cablesfree

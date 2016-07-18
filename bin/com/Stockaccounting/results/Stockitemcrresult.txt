@@ -1,0 +1,4 @@
+CAt##SN##STOCN##UOM##PP##SP##NOTES@@@Result
+test@1@@@30SupplierName@@@CARS@@@Quality2@@@300000@@@500000@@@GoodQuality@@@Pass
+Fruits@@@24@@@SHOES@@@Quality2@@@2000@@@3000@@@2yrWarranty @@@Pass
+pc@@@34t@@@WIRES@@@Quality3@@@500000@@@700000@@@Cablesfree@@@Pass

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61949" started-at="2016-07-18T09:38:31Z" finished-at="2016-07-18T09:39:33Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61949" started-at="2016-07-18T09:38:31Z" finished-at="2016-07-18T09:39:33Z">
+      <class name="com.Stockaccounting.tests.Saexe">
+        <test-method status="PASS" signature="exe()[pri:0, instance:com.Stockaccounting.tests.Saexe@7ac7a4e4]" name="exe" duration-ms="61906" started-at="2016-07-18T15:08:31Z" finished-at="2016-07-18T15:09:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- exe -->
+      </class> <!-- com.Stockaccounting.tests.Saexe -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
